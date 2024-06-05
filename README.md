@@ -7,9 +7,9 @@ Glad to see you on my page
 I'm an aspiring data analyst passionate about transforming data into actionable insights. I have a keen interest in data visualization 📊, statistical analysis 📈, and machine learning 🤖. Currently, I'm honing my skills in Python, SQL, and data analytics tools to solve real-world problems. I'm eager to collaborate on projects that push the boundaries of data science and contribute to innovative solutions. Let's connect and create something amazing together!
 
 You can contact me at:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/romanyol) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+79276956909)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:romavechnyj43@gmail.com)  
+[<img width="40" height="40" src="https://img.icons8.com/fluency/40/telegram-app.png" alt="telegram-app"/>](https://t.me/romanyol) 
+[<img width="40" height="40" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>](https://wa.me/+79276956909)
+[<img width="40" height="40" src="https://img.icons8.com/color/40/gmail-new.png" alt="gmail-new">](mailto:romavechnyj43@gmail.com)  
 
 
 ### Skills
