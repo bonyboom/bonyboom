@@ -5,12 +5,13 @@ Glad to see you on my page
 --------------------------
 
 I'm an aspiring data analyst passionate about transforming data into actionable insights. I have a keen interest in data visualization 📊 and statistical analysis 📈. Currently, I'm honing my skills in Python, SQL, and data analytics tools to solve real-world problems. I'm eager to collaborate on projects that push the boundaries of data science and contribute to innovative solutions. Let's connect and create something amazing together!
-
-You can contact me at:
-[<img width="40" height="40" src="https://img.icons8.com/fluency/40/telegram-app.png" alt="telegram-app"/>](https://t.me/romanyol) 
-[<img width="40" height="40" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>](https://wa.me/+79276956909)
+___________________________________________________
+### You can contact me at:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img width="40" height="40" src="https://img.icons8.com/fluency/40/telegram-app.png" alt="telegram-app"/>](https://t.me/romanyol) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img width="40" height="40" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>](https://wa.me/+79276956909)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width="40" height="40" src="https://img.icons8.com/color/40/gmail-new.png" alt="gmail-new">](mailto:romavechnyj43@gmail.com)  
 
+___________________________________________________
 ### Skills
 
 
@@ -19,6 +20,10 @@ You can contact me at:
 </p>
 
 
+### Aditional skills
+<a href="https://www.tableau.com/en-en" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/></a><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/></a><img width="48" height="48" src="https://img.icons8.com/fluency/48/ms-excel.png" alt="ms-excel"/><img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
+
+___________________________________________________
 ### Badges
 
 <b>My GitHub Stats</b>
