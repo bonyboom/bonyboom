@@ -9,9 +9,7 @@ I'm an aspiring data analyst passionate about transforming data into actionable 
 You can contact me at:
 <p align="left"> <a
 [<img width="40" height="40" src="https://img.icons8.com/fluency/40/telegram-app.png" alt="telegram-app"/>](https://t.me/romanyol) 
-  <p align="left"> <a
 [<img width="40" height="40" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>](https://wa.me/+79276956909)
-    <p align="left"> <a
 [<img width="40" height="40" src="https://img.icons8.com/color/40/gmail-new.png" alt="gmail-new">](mailto:romavechnyj43@gmail.com)  
 ### Skills
 
