@@ -6,7 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Glad to see you on my page
 --------------------------
 
-I'm an aspiring data analyst passionate about transforming data into actionable insights. I have a keen interest in data visualization 📊 and statistical analysis 📈. Currently, I'm honing my skills in Python, SQL, and data analytics tools to solve real-world problems. I'm eager to collaborate on projects that push the boundaries of data science and contribute to innovative solutions. Let's connect and create something amazing together!
+I'm an aspiring data analyst passionate about transforming data into actionable insights. I have a keen interest in data visualization 📊 and statistical analysis 📈. Currently, I'm honing my skills in Python, SQL, and data analytics tools to solve real-world problems. I'm eager to collaborate on projects that push the boundaries of data science and contribute to innovative solutions.
+
+Let's connect and create something amazing together!
 ___________________________________________________
 ### You can contact me at:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img width="40" height="40" src="https://img.icons8.com/fluency/40/telegram-app.png" alt="telegram-app"/>](https://t.me/romanyol) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
