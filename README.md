@@ -10,6 +10,9 @@ I'm an aspiring data analyst passionate about transforming data into actionable 
 
 Let's connect and create something amazing together!
 ___________________________________________________
+### Portfolio
+[<img width="300" height="300" src="P1.png" alt="telegram-app"/>](https://github.com/bonyboom/Sales-investigation) 
+___________________________________________________
 ### You can contact me at:
 [<img width="50" height="50" src="https://img.icons8.com/fluency/40/telegram-app.png" alt="telegram-app"/>](https://t.me/romanyol) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width="50" height="50" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>](https://wa.me/+79276956909)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
