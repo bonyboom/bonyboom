@@ -39,7 +39,7 @@ ___________________________________________________
 ___________________________________________________
 ### Badges
 <b> CodeWars Stats</b>
-<a href="https://www.codewars.com/users/bonyboom/badges/large">< img src="https://www.codewars.com/users/bonyboom/badges/large"" /></a>
+<a href="https://www.codewars.com/users/bonyboom/badges/large"><img src="https://www.codewars.com/users/bonyboom/badges/large" /></a>
 
 <b>My GitHub Stats</b>
 
