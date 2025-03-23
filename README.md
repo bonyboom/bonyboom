@@ -38,6 +38,8 @@ ___________________________________________________
 
 ___________________________________________________
 ### Badges
+<b> CodeWars Stats</b>
+<a src="https://www.codewars.com/users/bonyboom/badges/large"" /></a>
 
 <b>My GitHub Stats</b>
 
